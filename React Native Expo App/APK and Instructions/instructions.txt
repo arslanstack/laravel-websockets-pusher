@@ -1,0 +1,6 @@
+need to install expo dev client
+Then run npx expo start --dev-client
+Scan QR  or copy and open url in development build apk in this folder
+and trigger event from web app
+
+Ignore promise warning.
